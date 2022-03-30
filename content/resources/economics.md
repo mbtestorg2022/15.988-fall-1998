@@ -6,6 +6,7 @@ description: Reading assignment on supply and demand in the framework of system 
   supply and demand and help improve system dynamics modeling skills.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c0478ac5a8d6aa657cd82812fb91ce75_economics.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: economics.pdf
 uid: c0478ac5-a8d6-aa65-7cd8-2812fb91ce75

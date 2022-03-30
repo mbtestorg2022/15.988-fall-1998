@@ -9,6 +9,7 @@ description: Reading assignment on combined flows. This paper is the third in a 
   to calculate them for simple behaviors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/22da2870ffb5f5175f4b2437fe81845f_giepart3.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: giepart3.pdf
 uid: 22da2870-ffb5-f517-5f4b-2437fe81845f

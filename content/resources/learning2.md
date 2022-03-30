@@ -5,6 +5,7 @@ description: Reading assignment on learning through system dynamics, developing 
   the benefits of a systems education.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/cc8b13a630502e84a8ed763aeb614b08_learning2.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: learning2.pdf
 uid: cc8b13a6-3050-2e84-a8ed-763aeb614b08

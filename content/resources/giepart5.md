@@ -5,6 +5,7 @@ description: Reading assignment on qualitative graphical integration, the proces
   out of the stock.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/40f1babab76cca7d3bcc72a981ce8090_giepart5.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: giepart5.pdf
 uid: 40f1baba-b76c-ca7d-3bcc-72a981ce8090

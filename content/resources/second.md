@@ -4,6 +4,7 @@ description: Reading assignment on the different behaviors that can be generated
   a simple second-order model with one feedback loop connecting the stocks.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1d15fa81c8e3a0b5b57f7a7d81d1b4ad_second.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: second.pdf
 uid: 1d15fa81-c8e3-a0b5-b57f-7a7d81d1b4ad

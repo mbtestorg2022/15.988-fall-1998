@@ -9,6 +9,7 @@ description: 'Reading assignment. Building a System Dynamics Model is a series o
   the basic mechanisms, the feedback loops, of the system.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/1ba2bda320cfc48c71d04cb2cf42409b_building.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: building.pdf
 uid: 1ba2bda3-20cf-c48c-71d0-4cb2cf42409b

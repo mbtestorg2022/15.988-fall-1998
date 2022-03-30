@@ -10,6 +10,7 @@ description: Reading assignment. This paper is the second in a continuing series
   experience with system dynamics, model building, and mental simulation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/7ac2f07c6b562211becc8afb0102cf88_modeling2.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: modeling2.pdf
 uid: 7ac2f07c-6b56-2211-becc-8afb0102cf88

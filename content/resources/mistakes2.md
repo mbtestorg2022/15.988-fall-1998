@@ -4,6 +4,7 @@ description: Reading assignment on mistakes and misunderstandings in the use of 
   structures, and reality of stocks and flows.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/922abd1562a0f9b0e9dc6bf518e5edb0_mistakes2.pdf
 file_type: application/pdf
+parent_uid: e5399b4a-7510-d085-aeed-66c8e9603399
 resourcetype: Document
 title: mistakes2.pdf
 uid: 922abd15-62a0-f9b0-e9dc-6bf518e5edb0
